@@ -11,7 +11,8 @@
 #import <CoreData/CoreData.h>
 
 @interface RootViewController : UITableViewController <NSFetchedResultsControllerDelegate> {
-
+//test
+    //second change, still in first commit.
 }
 
 @property (nonatomic, retain) NSFetchedResultsController *fetchedResultsController;
