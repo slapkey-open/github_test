@@ -13,6 +13,7 @@
 @interface RootViewController : UITableViewController <NSFetchedResultsControllerDelegate> {
 //test
     //second change, still in first commit.
+    //third change, 2nd commit
 }
 
 @property (nonatomic, retain) NSFetchedResultsController *fetchedResultsController;
