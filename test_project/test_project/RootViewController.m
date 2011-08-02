@@ -22,6 +22,7 @@
 {
     [super viewDidLoad];
     // Set up the edit and add buttons.
+    //5th comment, 3rd commit.
     self.navigationItem.leftBarButtonItem = self.editButtonItem;
 
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject)];
